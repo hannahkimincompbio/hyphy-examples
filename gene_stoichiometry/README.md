@@ -2,7 +2,7 @@
 
 Given a **nucleotide** sequence alignment, the goal is to count atoms and report.
 
-1. The counts of nucleotides within a sequence that are 'A', 'T', C', 'G', corresponding to the canonical nuclotides.
+1. The counts of nucleotides within a sequence that are 'A', 'T', 'C', 'G', corresponding to the canonical nucleotides.
 2. The total number of Carbon, Hydrogen, Oxygen, and Nitrogen atoms per sequence, computed with information from the known chemical structures
 
 There are several HyPhy scripts in this directory, arranged from the simplest to the most advanced in numerical order, so that `GS-01.md` (`.md` is used so that GitHub renders the annotated source files) is the simplest, `GS-02.md` will be the second simplest, etc. The scripts include inline comments that you could use to follow the logic. You can also open them in a markdown editor to view formatted text.
