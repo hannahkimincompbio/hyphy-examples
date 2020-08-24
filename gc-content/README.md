@@ -12,7 +12,7 @@ There is a test dataset, `ncov.fas` which contains a few partial sequences from 
 To run an example, execute
 
 ```
-hyphy CG-01.hbl
+hyphy CG-01.md
 ```
 
 or (for the scripts that expect positional arguments)
